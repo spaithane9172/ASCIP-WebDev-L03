@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ASCIP-WebDev-L03/static/css/main.d799e5f2.css",
+    "main.js": "/ASCIP-WebDev-L03/static/js/main.e9f7f190.js",
+    "static/js/787.5d2f3e6b.chunk.js": "/ASCIP-WebDev-L03/static/js/787.5d2f3e6b.chunk.js",
+    "static/media/loader.gif": "/ASCIP-WebDev-L03/static/media/loader.b21fa87ebeb0e841ee8a.gif",
+    "index.html": "/ASCIP-WebDev-L03/index.html",
+    "main.d799e5f2.css.map": "/ASCIP-WebDev-L03/static/css/main.d799e5f2.css.map",
+    "main.e9f7f190.js.map": "/ASCIP-WebDev-L03/static/js/main.e9f7f190.js.map",
+    "787.5d2f3e6b.chunk.js.map": "/ASCIP-WebDev-L03/static/js/787.5d2f3e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d799e5f2.css",
+    "static/js/main.e9f7f190.js"
+  ]
+}
